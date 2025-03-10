@@ -7,3 +7,5 @@
 #include <time.h>
 
 void Shop();
+
+void Select();

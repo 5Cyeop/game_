@@ -3,56 +3,60 @@
   "WorkspaceRootPath": "C:\\game-programming\\game_\\game__\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\travel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\travel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\lobby.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\lobby.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\battle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\battle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\travel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\travel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\w_upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\w_upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\w_upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\w_upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{053EEDA6-AC6C-45EE-B0B5-15C08C3CABCE}|tst\\tst.vcxproj|C:\\game-programming\\game_\\game__\\tst\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{053EEDA6-AC6C-45EE-B0B5-15C08C3CABCE}|tst\\tst.vcxproj|solutionrelative:tst\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\border.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\border.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\upgrade_shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\upgrade_shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\travel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\travel.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\lobby.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\lobby.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\w_upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\w_upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\upgrade_shop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\upgrade_shop.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\upgrade_shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\upgrade_shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\travel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\travel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\w_upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\w_upgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\battle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\battle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "travel.c",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\travel.c",
               "RelativeDocumentMoniker": "game__\\travel.c",
               "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\travel.c",
               "RelativeToolTip": "game__\\travel.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-10T08:30:48.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "battle.c",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\battle.c",
               "RelativeDocumentMoniker": "game__\\battle.c",
@@ -91,12 +95,11 @@
               "RelativeToolTip": "game__\\battle.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-10T10:07:29.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T10:07:29.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "lobby.c",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\lobby.c",
               "RelativeDocumentMoniker": "game__\\lobby.c",
@@ -109,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "lobby.h",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\lobby.h",
               "RelativeDocumentMoniker": "game__\\lobby.h",
@@ -122,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "battle.h",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\battle.h",
               "RelativeDocumentMoniker": "game__\\battle.h",
@@ -130,12 +133,11 @@
               "RelativeToolTip": "game__\\battle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-10T10:06:21.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T10:06:21.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "w_upgrade.h",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\w_upgrade.h",
               "RelativeDocumentMoniker": "game__\\w_upgrade.h",
@@ -148,20 +150,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "w_upgrade.c",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\w_upgrade.c",
               "RelativeDocumentMoniker": "game__\\w_upgrade.c",
               "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\w_upgrade.c",
               "RelativeToolTip": "game__\\w_upgrade.c",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAIwIgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-10T10:05:20.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "travel.h",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\travel.h",
               "RelativeDocumentMoniker": "game__\\travel.h",
@@ -174,65 +176,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "upgrade_shop.c",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\upgrade_shop.c",
               "RelativeDocumentMoniker": "game__\\upgrade_shop.c",
               "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\upgrade_shop.c",
               "RelativeToolTip": "game__\\upgrade_shop.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-10T07:51:53.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "upgrade_shop.h",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\upgrade_shop.h",
               "RelativeDocumentMoniker": "game__\\upgrade_shop.h",
               "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\upgrade_shop.h",
               "RelativeToolTip": "game__\\upgrade_shop.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-10T07:51:41.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\main.c",
               "RelativeDocumentMoniker": "game__\\main.c",
               "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\main.c",
               "RelativeToolTip": "game__\\main.c",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-10T06:59:37.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\game-programming\\game_\\game__\\tst\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "tst\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\game-programming\\game_\\game__\\tst\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "tst\\\uC18C\uC2A4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T15:36:25.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "border.c",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\border.c",
               "RelativeDocumentMoniker": "game__\\border.c",
               "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\border.c",
               "RelativeToolTip": "game__\\border.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAI8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-10T07:11:32.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "border.h",
               "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\border.h",
               "RelativeDocumentMoniker": "game__\\border.h",
               "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\border.h",
               "RelativeToolTip": "game__\\border.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-10T07:10:31.99Z",
               "EditorCaption": ""

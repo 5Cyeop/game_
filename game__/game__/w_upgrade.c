@@ -18,7 +18,7 @@ void Upgrade_M()
 	while (1)
 	{
 		printf("진화석: %d, 강화석: %d\n", evolve_point, upgrade_point);
-		printf("Y.강화한다 / N.강화를 취소한다 (E. 무기 진화) \n\n");
+		printf("Y.강화한다 / N.강화를 취소한다 \n\n");
 		p += 1;
 
 		if (p % 5 == 0)

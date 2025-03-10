@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="main.c" />
     <ClCompile Include="travel.c" />
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="travel.h" />
