@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\game-programming\\game_\\game__\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|C:\\game-programming\\game_\\game__\\game__\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB129EDE-8B99-4CC6-AF69-E3AE7461BEA6}|game__\\game__.vcxproj|solutionrelative:game__\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\game-programming\\game_\\game__\\game__\\main.c",
+              "RelativeDocumentMoniker": "game__\\main.c",
+              "ToolTip": "C:\\game-programming\\game_\\game__\\game__\\main.c",
+              "RelativeToolTip": "game__\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T06:59:37.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
