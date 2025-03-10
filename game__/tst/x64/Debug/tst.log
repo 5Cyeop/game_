@@ -1,0 +1,4 @@
+﻿  main.c
+C:\game-programming\game_\game__\tst\main.c(19,13): warning C4047: '함수': 'HCURSOR'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\game-programming\game_\game__\tst\main.c(19,13): warning C4024: 'SetCursor': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\game-programming\game_\game__\tst\main.c(19,24): error C2197: 'HCURSOR SetCursor(HCURSOR)': 호출에 인수가 너무 많습니다.

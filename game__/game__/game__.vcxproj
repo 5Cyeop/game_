@@ -127,7 +127,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="battle.c" />
+    <ClCompile Include="border.c" />
+    <ClCompile Include="lobby.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="travel.c" />
+    <ClCompile Include="upgrade_shop.c" />
+    <ClCompile Include="w_upgrade.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="battle.h" />
+    <ClInclude Include="border.h" />
+    <ClInclude Include="lobby.h" />
+    <ClInclude Include="travel.h" />
+    <ClInclude Include="upgrade_shop.h" />
+    <ClInclude Include="w_upgrade.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

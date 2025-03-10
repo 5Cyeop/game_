@@ -18,5 +18,43 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="border.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="upgrade_shop.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="travel.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="w_upgrade.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lobby.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="battle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="border.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="upgrade_shop.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="travel.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="w_upgrade.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="battle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lobby.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
